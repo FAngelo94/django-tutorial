@@ -1,6 +1,6 @@
 # Django tutorial
 
-Application done following Django guide for learning
+Application done following Django guide for learning: https://docs.djangoproject.com/en/4.1/intro/tutorial01/
 
 ## Commands
 Every commands start with **python manage.py runserver**, then:
