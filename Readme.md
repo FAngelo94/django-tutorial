@@ -1,6 +1,10 @@
 # Django tutorial
 
-Application done following Django guide for learning: https://docs.djangoproject.com/en/4.1/intro/tutorial01/
+List of example application where django is used:
+
+- **firstsite**: Application done following Django guide for learning: https://docs.djangoproject.com/en/4.1/intro/tutorial01/
+- **django-react-auth**: Example of how to use an authentication system with django and react folllowing this guide: https://blog.devgenius.io/django-rest-framework-react-authentication-workflow-2022-part-2-d299b7fef875
+- **django-todo-react**: Example of how to use django and react to create a todo list
 
 ## Commands
 Every commands start with **python manage.py runserver**, then:
