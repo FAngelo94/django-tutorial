@@ -31,3 +31,8 @@ Things I want to add:
 - Instructions on easy deployment to cloud.gov
 - Directory structure?
 - USWDS in some form?
+
+## Update models
+If you want add new models and use **migrate** command just enter in the server container and run migrate from inside usind this command:
+
+`docker exec -t -i <container_id> bash`
